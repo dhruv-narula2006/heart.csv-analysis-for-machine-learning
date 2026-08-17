@@ -177,7 +177,7 @@ Heart-Disease-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/sharmavinay9932-cse/heart.csv-analysis-for-machine-learning
 ```
 
 ### 2. Navigate to the project
